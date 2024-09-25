@@ -3,10 +3,9 @@
 ___________________________________
 
 - 👀 Tenho 26 anos e sou desenvolvedor Full Stack
-- 📚 Atualmente estou estudando Python e Java
 - 🎓 Formado em Sistemas de Informações
 - ⚙️ Tehno experiencia com `Desenvolvimento Web`,  `Desenvolvimento Mobile` e `Banco de dados`.
-- 👨‍💻 Tenho habilidades com ReactJS, React Native, PHP - Laravel, Vue - Quasar, NodeJs e Typescript
+- 👨‍💻 Tenho habilidades com ReactJS, React Native, PHP - Laravel, Vue - Quasar, PostgreSQL, NodeJs e Typescript
 - 📌 Moro em Uberaba - MG!
 
 ___________________________________
